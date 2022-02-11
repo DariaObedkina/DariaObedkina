@@ -1,8 +1,7 @@
-### Hi there 👋 I am QA engineer!
+### Hi there 👋
 ***
-:mag: I’m currently working as manual QA at <a href="https://solit-clouds.ru/">Solit Clouds</a>
+:mag: I’m currently working as AQA at <a href="https://solit-clouds.ru/">Solit Clouds</a>
 
-:mortar_board: I’m currently learning test automation at <a href="https://qa.guru/"> QA.guru</a>
 
 Here you can find an example of my code:
 
